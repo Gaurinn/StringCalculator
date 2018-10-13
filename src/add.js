@@ -3,7 +3,7 @@ function add(number) {
 	if(number == ""){
 		return 0;
 	}
-	return number;
+	return parseInt(number);
 }
 
 module.exports = add;
