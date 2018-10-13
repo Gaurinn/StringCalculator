@@ -6,5 +6,9 @@ test("Returns 0 if no argument is given", () => {
 });
 
 test("Returns number if only one argument", () => {
-	expect(add("3")).toBe(3);
+	expect(add("1")).toBe(1);
+});
+
+test("Returns sum of two arguments", () => {
+	expect(add("1,2")).toBe(3);
 });
