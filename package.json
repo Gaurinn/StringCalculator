@@ -1,0 +1,23 @@
+{
+  "name": "stringcalculator",
+  "version": "1.0.0",
+  "description": "Test Driven Development Exercise Kata StringCalculator",
+  "main": "add.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaurinn/StringCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaurinn/StringCalculator/issues"
+  },
+  "homepage": "https://github.com/Gaurinn/StringCalculator#readme"
+}
