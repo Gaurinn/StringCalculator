@@ -2,5 +2,5 @@
 const add = require("./add");
 
 test("Returns 0 if no argument is given", () => {
-	expect(add('')).toBe("");
+	expect(add('')).toBe(0);
 });
